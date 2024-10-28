@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "imag": "/blogs/blog5.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Bill Walsh leadership lessons",
+    "des": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+    "config": ["Product", "Research", "Frameworks"],
+    
+  },
+  {
+    "id": 2,
+    "imag": "/blogs/blog6.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "PM mental models",
+    "des": "Mental models are simple expressions of complex processes or relationships.",
+    "config": ["Product", "Research", "Frameworks"],
+    "sections": []
+  },
+  {
+    "id": 3,
+    "imag": "/blogs/blog7.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "What is Wireframing?",
+    "des": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+    "config": ["Design", "Research", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 4,
+    "imag": "/blogs/blog8.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "How collaboration makes us better designers",
+    "des": "Collaboration can make our teams stronger, and our individual designs better.",
+    "config": ["Design", "Research", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 5,
+    "imag": "/blogs/blog9.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Our top 10 Javascript frameworks to use",
+    "des": "JavaScript frameworks make development easy with extensive features and functionalities.",
+    "config": ["Software Development", "Tools", "SaaS"],
+    "sections": []
+  },
+  {
+    "id": 6,
+    "imag": "/blogs/blog10.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Podcast: Creating a better CX Community",
+    "des": "Starting a community doesn’t need to be complicated, but how do you get started?",
+    "config": ["Podcasts", "Customer Success", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 7,
+    "imag": "/blogs/blog1.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "UX review presentations",
+    "des": "How do you create compelling presentations that wow your colleagues and impress your managers?",
+    "config": ["Design", "Research", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 8,
+    "imag": "/blogs/blog2.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Migrating to Linear 101",
+    "des": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
+    "config": ["Design", "Research"],
+    "sections": []
+  },
+  {
+    "id": 9,
+    "imag": "/blogs/blog3.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Building your API Stack",
+    "des": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
+    "config": ["Design", "Research"],
+    "sections": []
+  },
+  {
+    "id": 10,
+    "imag": "/blogs/blog4.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Grid system for better Design User Interface",
+    "des": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.",
+    "config": ["Design", "Research"],
+    "sections": []
+  },
+  {
+    "id": 11,
+    "imag": "/blogs/blog10.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Podcast: Creating a better CX Community",
+    "des": "Starting a community doesn’t need to be complicated, but how do you get started?",
+    "config": ["Podcasts", "Customer Success", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 12,
+    "imag": "/blogs/blog9.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Our top 10 Javascript frameworks to use",
+    "des": "JavaScript frameworks make development easy with extensive features and functionalities.",
+    "config": ["Software Development", "Tools", "SaaS"],
+    "sections": []
+  },
+  {
+    "id": 13,
+    "imag": "/blogs/blog8.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "How collaboration makes us better designers",
+    "des": "Collaboration can make our teams stronger, and our individual designs better.",
+    "config": ["Design", "Research", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 14,
+    "imag": "/blogs/blog7.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "What is Wireframing?",
+    "des": "Introduction to Wireframing and its Principles. Learn from the best in the industry.",
+    "config": ["Design", "Research", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 15,
+    "imag": "/blogs/blog6.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "PM mental models",
+    "des": "Mental models are simple expressions of complex processes or relationships.",
+    "config": ["Product", "Research", "Frameworks"],
+    "sections": []
+  },
+  {
+    "id": 16,
+    "imag": "/blogs/blog5.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Bill Walsh leadership lessons",
+    "des": "Like to know the secrets of transforming a 2-14 team into a 3x Super Bowl winning Dynasty?",
+    "config": ["Product", "Research", "Frameworks"],
+    "sections": []
+  },
+  {
+    "id": 17,
+    "imag": "/blogs/blog1.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "UX review presentations",
+    "des": "How do you create compelling presentations that wow your colleagues and impress your managers?",
+    "config": ["Design", "Research", "Presentation"],
+    "sections": []
+  },
+  {
+    "id": 18,
+    "imag": "/blogs/blog2.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Migrating to Linear 101",
+    "des": "Linear helps streamline software projects, sprints, tasks, and bug tracking. Here’s how to get...",
+    "config": ["Design", "Research"],
+    "sections": []
+  },
+  {
+    "id": 19,
+    "imag": "/blogs/blog3.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Building your API Stack",
+    "des": "The rise of RESTful APIs has been met by a rise in tools for creating, testing, and manag...",
+    "config": ["Design", "Research"],
+    "sections": []
+  },
+  {
+    "id": 20,
+    "imag": "/blogs/blog4.png",
+    "date": "Sunday , 1 Jan 2023",
+    "title": "Grid system for better Design User Interface",
+    "des": "A grid system is a design tool used to arrange content on a webpage. It is a series of vertical and horizontal lines that create a matrix of intersecting points, which can be used to align and organize page elements. Grid systems are used to create a consistent look and feel across a website, and can help to make the layout more visually appealing and easier to navigate.",
+    "config": ["Design", "Research"],
+    "sections": []
+  }
+]
